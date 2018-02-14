@@ -1,4 +1,11 @@
+
+#head stands for the master branch
 Hello this is my programhirfhirhfirhfirhfirhf
 
 scoot scoot magoot
-all the best to you.
+all the best to you. #the = marks the end of the master branch
+Hello this is my program scoot scoot magoot
+catzzzzzzzzzzz
+fgdfgdfd
+dfv
+fixing the merge conflict by hand 
